@@ -95,28 +95,8 @@ python file_name.py
 
 ---
 
-📊 Sample Outputs
-
-- 📈 Salary Prediction (Linear Regression)
-- 🎯 Pass/Fail Prediction (Logistic Regression)
-- 🧠 Classification (KNN, SVM, Decision Tree, Random Forest)
-- 🏡 House Price Estimation
-
----
-
-🎯 Learning Outcome
-
-After completing this project, you will:
-
-- Understand core ML algorithms
-- Learn model training & testing
-- Gain practical coding experience
-
----
-
 👨‍💻 Author
-
-Your Name
+Pranshu Singh 
 
 ---
 
