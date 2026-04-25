@@ -54,23 +54,6 @@ House Price Prediction System
 
 ---
 
-📁 Project Structure
-
-Machine-Learning-Lab/
-│
-├── linear_regression.py
-├── logistic_regression.py
-├── decision_tree.py
-├── random_forest.py
-├── knn.py
-├── svm.py
-├── kmeans.py
-├── hierarchical.py
-├── house_price_prediction.py
-└── README.md
-
----
-
 ⚡ Installation & Setup
 
 1️⃣ Install Python (3.x)
